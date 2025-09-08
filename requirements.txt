@@ -1,0 +1,11 @@
+langchain==0.1.16
+langchain-community==0.0.29
+faiss-cpu==1.8.0
+transformers==4.41.0
+accelerate==0.29.3
+bitsandbytes==0.43.0
+sentence-transformers==2.7.0
+gradio==4.24.0
+unstructured[pdf,docx]==0.13.0
+python-docx==1.1.0
+torch==2.3.0
